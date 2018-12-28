@@ -21,7 +21,7 @@ def main(args):
         axis_up='Z',
         filter_glob="*.stl",
         use_selection=False,
-        global_scale=1.0,
+        global_scale=10.0,
         use_scene_unit=False,
         ascii=False,
         use_mesh_modifiers=True,
